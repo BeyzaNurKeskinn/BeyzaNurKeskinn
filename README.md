@@ -1,5 +1,3 @@
-# BEYSA
-☕️ I love Java, 🌐 I build for the web, 💡 and I never stop learning! Hello World! This is my profile.
 <h1 align="center">Hi 👋, I'm Beyza!</h1>
 <h3 align="center">👋 Hi, I'm Beyza Horasan! 💻 Computer Engineer | Full-Stack Developer | Technology Enthusiast Hello! I'm Beyza, a computer engineer who is passionate about continuously improving in the world of software development. I develop projects using technologies like Java, Spring Framework, JavaScript, and React. While writing code, I care not only about functionality but also about clean architecture, performance, and user experience. 🚀 Technologies I Use 🧠 Backend: Java, Spring Boot, Spring MVC, Spring Security, JPA, REST API 🎨 Frontend: HTML, CSS, JavaScript, React 🗃️ Database: PostgreSQL, MySQL ⚙️ Others: Git, GitHub, Docker, Bootstrap</h3>
 
