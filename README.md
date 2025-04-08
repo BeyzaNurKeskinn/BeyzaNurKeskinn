@@ -1,12 +1,19 @@
-<h1 align="center">✨ Hi 👋, I'm Beyza! ✨</h1>
-<h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
-<p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠</p>
+<h1 align="center">Hi 👋, I'm Beyza!</h1>
+<table width="100%">
+  <tr>
+    <td valign="middle" width="60%">
+      <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
+      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠</p>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <div align="center">
+        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
-
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
-</div>
 
 <br/>
 
