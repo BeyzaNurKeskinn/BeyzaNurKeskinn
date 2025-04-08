@@ -34,9 +34,11 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" title="Git" /></code>
   <code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub" height="25"/></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" /></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" /></code><a href="https://medium.com/@beyzanurhorasan89" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
-</a>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" />
+   <p align="right">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</p></code>
+
 </p>
 
 ### 🔗 Connect with me:
@@ -45,12 +47,12 @@
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
 </a>
-
+<a href="https://medium.com/@beyzanurhorasan89" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
+</a>
  
 </p>
- <p align="right">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
