@@ -40,15 +40,7 @@
 <table>
   <tr>
     <td valign="middle" width="60%">
-      <h4>👋 Nice to meet you! I'm Beyza Nur Keskin, a passionate Computer Engineer and Full-Stack Developer.</h4>
-    </td>
-    <td valign="middle" width="40%" align="right">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-    </td>
-  </tr>
-</table>
-
-### 🔗 Connect with me:
+      <h4>### 🔗 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
@@ -57,7 +49,15 @@
 <a href="https://medium.com/@beyzanurhorasan89" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
 </a>
-</p>
+</p></h4>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+    </td>
+  </tr>
+</table>
+
+
 
 ### 🛠️ Languages and Tools:
 
