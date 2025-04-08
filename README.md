@@ -40,12 +40,12 @@
 <table>
   <tr>
     <td valign="middle" width="60%">
-      <h4>🔗 Connect with me:
-
-<p align="left">
+      <h4>🔗Connect with me:
+        <p align="left">
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
 </a>
+          <br></br>
 <a href="https://medium.com/@beyzanurhorasan89" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
 </a>
