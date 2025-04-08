@@ -46,11 +46,11 @@
 <a href="https://medium.com/@beyzanurhorasan89" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
 </a>
-  <p align="right">
+ 
+</p>
+ <p align="right">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
-</p>
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
