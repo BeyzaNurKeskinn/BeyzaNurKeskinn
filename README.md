@@ -46,6 +46,7 @@
 <a href="https://medium.com/@beyzanurhorasan89" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
 </a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 
 ### 🛠️ Languages and Tools:
@@ -85,5 +86,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=beyzanurkeskinn&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beyzanurkeskinn&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
 
