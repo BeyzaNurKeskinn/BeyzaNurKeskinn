@@ -82,14 +82,18 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzanurkeskinn&show_icons=true&locale=en&layout=compact" alt="beyzanurkeskinn" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=beyzanurkeskinn&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=beyzanurkeskinn&theme=radical&hide_border=false)
+ <p align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzanurkeskinn&show_icons=true&locale=en&layout=compact" alt="beyzanurkeskinn" />
+ </p>
+ 
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=beyzanurkeskinn&show_icons=true&locale=en" alt="beyzanurkeskinn" />
+ </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=beyzanurkeskinn&show_icons=true&locale=en" alt="beyzanurkeskinn" />
-</p>
+ <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzanurkeskinn&" alt="beyzanurkeskinn" />
+ </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzanurkeskinn&" alt="beyzanurkeskinn" />
-</p>
