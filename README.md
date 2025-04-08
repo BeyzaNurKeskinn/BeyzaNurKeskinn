@@ -1,17 +1,15 @@
-<h1 align="center">✨ Hi, I'm Beyza! ✨</h1>
-<h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
-<p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠</p>
+<h1 align="center">Hi 👋, I'm Beyza!</h1>
+<h3 align="center">👋 Hi, I'm Beyza Nur Keskin! 💻 Computer Engineer | Full-Stack Developer | Technology Enthusiast</h3>
+<p align="center">Hello! I'm Beyza, a computer engineer passionate about continuously improving in the world of software development. I develop projects using technologies like Java, Spring Framework, JavaScript, and React. While writing code, I care not only about functionality but also about clean architecture, performance, and user experience. 🚀</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20Views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
 
 <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 </div>
 
-<br/>
+### 🚀 Technologies I Use 🧠
 
-<h2 align="left">🛠️ Tech Stack</h2>
-<hr>
 <p align="left">
   <b>Backend:</b>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" /></code>
@@ -39,10 +37,8 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" /></code>
 </p>
 
-<br/>
+### 🔗 Connect with me:
 
-<h2 align="left">🔗 Let's Connect!</h2>
-<hr>
 <p align="left">
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
@@ -52,10 +48,8 @@
 </a>
 </p>
 
-<br/>
+### 🛠️ Languages and Tools:
 
-<h2 align="left">🛠️ Languages & Tools</h2>
-<hr>
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -88,8 +82,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
-<br/>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzanurkeskinn&show_icons=true&locale=en&layout=compact" alt="beyzanurkeskinn" />
