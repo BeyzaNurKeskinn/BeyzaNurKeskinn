@@ -34,7 +34,9 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" title="Git" /></code>
   <code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub" height="25"/></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" /></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" /></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" /></code><a href="https://medium.com/@beyzanurhorasan89" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
+</a>
 </p>
 
 ### 🔗 Connect with me:
@@ -43,9 +45,7 @@
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
 </a>
-<a href="https://medium.com/@beyzanurhorasan89" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
-</a>
+
  
 </p>
  <p align="right">
