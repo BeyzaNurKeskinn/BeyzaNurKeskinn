@@ -1,14 +1,14 @@
-<h1 align="center">Merhaba 👋, Ben Beyza!</h1>
-<h3 align="center">👋 Merhaba, Ben Beyza Nur Keskin! 💻 Bilgisayar Mühendisi | Full-Stack Geliştirici | Teknoloji Meraklısı</h3>
-<p align="center">Yazılım geliştirme dünyasında sürekli öğrenmeye ve kendimi geliştirmeye tutkuyla bağlı bir bilgisayar mühendisiyim. Java, Spring Framework, JavaScript ve React gibi teknolojilerle projeler geliştiriyorum. Kod yazarken sadece işlevselliğe değil, aynı zamanda temiz mimariye, performansa ve kullanıcı deneyimine de özen gösteriyorum. 🚀</p>
+<h1 align="center">Hi 👋, I'm Beyza!</h1>
+<h3 align="center">👋 Hi, I'm Beyza Nur Keskin! 💻 Computer Engineer | Full-Stack Developer | Technology Enthusiast</h3>
+<p align="center">Hello! I'm Beyza, a computer engineer passionate about continuously improving in the world of software development. I develop projects using technologies like Java, Spring Framework, JavaScript, and React. While writing code, I care not only about functionality but also about clean architecture, performance, and user experience. 🚀</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profil%20Görüntülenmeleri&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+  <img height="150" src="https://i.pinimg.com/originals/74/89/3f/74893f594c062767910c35f5b7c11c18.gif" alt="Animated Snake" />
 </div>
 
-### 🚀 Kullandığım Teknolojiler 🧠
+### 🚀 Technologies I Use 🧠
 
 <p align="left">
   <b>Backend:</b>
@@ -26,18 +26,18 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" /></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" /></code>
   <br/>
-  <b>Veritabanı:</b>
+  <b>Database:</b>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" /></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" /></code>
   <br/>
-  <b>Diğer:</b>
+  <b>Others:</b>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" title="Git" /></code>
   <code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" title="GitHub" height="25"/></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" /></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" /></code>
 </p>
 
-### 🔗 Benimle Bağlantı Kurun:
+### 🔗 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
@@ -48,7 +48,11 @@
 </a>
 </p>
 
-### 🛠️ Diller ve Araçlar:
+<div align="center">
+  <img height="100" src="https://media.tenor.com/images/6e8a6a17c55a738595171119c7b37b61/tenor.gif" alt="Coding Animation" />
+</div>
+
+### 🛠️ Languages and Tools:
 
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
