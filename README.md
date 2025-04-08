@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td valign="middle" width="60%">
-      <h4>### 🔗 Connect with me:
+      <h4>🔗 Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
