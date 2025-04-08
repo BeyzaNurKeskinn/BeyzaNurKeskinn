@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🔗 Connect with me:</h3>
+      <h4>🔗 Connect with me:</h4>
       <p align="left">
       <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
