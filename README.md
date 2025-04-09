@@ -7,7 +7,7 @@
       <h3 align="left">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
       <p align="left">
         I'm a <strong>Computer Engineer</strong> passionate about building robust, scalable, and user-friendly web applications. <br>
-        I specialize in <strong>Java, Spring Boot, React, and modern web technologies</strong>. <br>
+        I specialize in <strong>Java, Spring Boot, React, and modern web technologies</strong>. <br>
         I strive to write <strong>clean code</strong>, follow <strong>best practices</strong>, and continually improve myself as a developer. 💡
       </p>
     </td>
