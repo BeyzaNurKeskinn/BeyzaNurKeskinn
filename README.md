@@ -193,9 +193,9 @@
        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
   
-  </tr>
+  </tr><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </table>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 
 
