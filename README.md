@@ -193,7 +193,7 @@
        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
   
-  </tr><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ [ </tr><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZqaHM3Zzk1emc5dnFlNWptdmR4eWNsdTlzMW1taXlhcTl2ancxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
 </table>
 
 
