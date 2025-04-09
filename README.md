@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-<br/>
+
 <hr>
 
 <h3>🛠️ Languages and Tools:</h3>
