@@ -8,7 +8,7 @@
     </td>
     <td valign="middle" width="40%" align="right">
       <div align="center">
-        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
       </div>
     </td>
   </tr>
@@ -176,8 +176,9 @@
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+       <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
+  
   </tr>
 </table>
 
