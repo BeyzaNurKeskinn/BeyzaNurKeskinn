@@ -3,7 +3,8 @@
   <tr>
     <td valign="middle" width="60%">
       <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
-      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠</p>
+      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠  </p> <br></br>
+      </td>
     </td>
     <td valign="middle" width="40%" align="right">
       <div align="center">
