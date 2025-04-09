@@ -88,12 +88,12 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=devafortun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devafortun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaNurKeskinnn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaNurKeskinnn&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/devafortun/devafortun/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p> -->
 
-![Snake gif](https://github.com/BeyzaNurKeskinn/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/BeyzaNurKeskinnn/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
