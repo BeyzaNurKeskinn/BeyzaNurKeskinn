@@ -25,7 +25,7 @@
 
 <h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
 <p align="center">
-  Let's build something great together. ✨
+  Let's build something great together. ✨<p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
 </p>
 <p align="center">
  
@@ -190,12 +190,12 @@
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
-       <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" /><p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
+       <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" /><p align="left"> 
     </td>
 
 
 </table>
-<p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
+
 
 
 
