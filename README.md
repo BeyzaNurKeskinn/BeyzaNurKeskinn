@@ -22,7 +22,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
 
 <hr>
-
+<h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
+<p align="center">
+  Let's build something great together. ✨
+</p>
 <h3>🛠️ Languages and Tools:</h3>
 
 <table align="center">
@@ -190,20 +193,17 @@
 <p align="center">
   🌱 I’m currently learning: <strong>Docker, Kubernetes, Kafka</strong> <br>
   💬 Ask me about: <strong>Java & Spring Boot</strong> <br>
-  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a> <br>
+  📫 How to reach me: <a href="mailto:beyzanurhorasan89@gmail.com">beyzanurhorasan89@gmail.com</a> <br>
   ⚡ Fun fact: I love solving algorithm problems and designing UIs!
 </p>
 
 <h3 align="center">📌 Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/beyzanurkeskinn/my-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=my-awesome-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=SpringBootProject&theme=radical" />
   </a>
   <a href="https://github.com/beyzanurkeskinn/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=another-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=WarehouseManagementSystem&theme=radical" />
   </a>
 </p>
-<h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
-<p align="center">
-  Let's build something great together. ✨
-</p>
+
