@@ -193,7 +193,7 @@
        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
   
- [ </tr><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZqaHM3Zzk1emc5dnFlNWptdmR4eWNsdTlzMW1taXlhcTl2ancxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/137EaR4vAOCn1S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S">via GIPHY</a></p>
 </table>
 
 
