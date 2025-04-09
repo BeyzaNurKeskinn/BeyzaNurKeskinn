@@ -26,6 +26,11 @@
 <p align="center">
   Let's build something great together. ✨
 </p>
+<p align="center">
+ 
+  📫 How to reach me: <a href="mailto:beyzanurhorasan89@gmail.com">beyzanurhorasan89@gmail.com</a> <br>
+  
+</p>
 <h3>🛠️ Languages and Tools:</h3>
 
 <table align="center">
@@ -190,20 +195,7 @@
   </tr>
 </table>
 
-<p align="center">
-  🌱 I’m currently learning: <strong>Docker, Kubernetes, Kafka</strong> <br>
-  💬 Ask me about: <strong>Java & Spring Boot</strong> <br>
-  📫 How to reach me: <a href="mailto:beyzanurhorasan89@gmail.com">beyzanurhorasan89@gmail.com</a> <br>
-  ⚡ Fun fact: I love solving algorithm problems and designing UIs!
-</p>
 
-<h3 align="center">📌 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/beyzanurkeskinn/my-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=SpringBootProject&theme=radical" />
-  </a>
-  <a href="https://github.com/beyzanurkeskinn/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=WarehouseManagementSystem&theme=radical" />
-  </a>
-</p>
+
+
 
