@@ -21,9 +21,6 @@
 <table width="100%">
   <tr>
     <td valign="middle" width="60%">
-      <h3>🔗 Connect with me:</h3>
-      <p align="left">
-        <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
       </p>
