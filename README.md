@@ -23,13 +23,9 @@
     <td valign="middle" width="60%">
       <h3>🔗 Connect with me:</h3>
       <p align="left">
-        <a href="https://linkedin.com/in/beyzanurkeskinn" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzanurkeskinn" height="30" width="40" />
-        </a>
-        <br/>
-        <a href="https://medium.com/@beyzanurhorasan89" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beyzanurhorasan89" height="30" width="40" />
-        </a>
+        <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
@@ -192,15 +188,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyzanurkeskinn&theme=radical&_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzanurkeskinn&theme=radical&hide_border=false" alt="Streak Stats" />
-</p>
 
