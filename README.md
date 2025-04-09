@@ -3,7 +3,7 @@
   <tr>
     <td valign="middle" width="60%">
       <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
-      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠  </p> <br></br>
+      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠  </p> </br>
       </td>
     </td>
     <td valign="middle" width="40%" align="right">
@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
 
-<br/>
+
 
 <table width="100%">
   <tr>
