@@ -16,22 +16,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
 
-
-
-<table width="100%">
-  <tr>
-    <td valign="middle" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-      </p>
-    </td>
-    <td valign="middle" width="40%" align="right">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-    </td>
-  </tr>
-</table>
-
-
 <hr>
 
 <h3>🛠️ Languages and Tools:</h3>
@@ -184,7 +168,18 @@
 </table>
 
 <hr>
-
+<table width="100%">
+  <tr>
+    <td valign="middle" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+      </p>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+    </td>
+  </tr>
+</table>
 
 
 
