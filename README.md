@@ -192,8 +192,8 @@
     <td valign="middle" width="40%" align="right">
        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
-  
-<iframe src="https://giphy.com/embed/137EaR4vAOCn1S" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S">via GIPHY</a></p>
+![Mama Hacking GIF](https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07)
+
 </table>
 
 
