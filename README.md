@@ -190,12 +190,12 @@
       </p>
     </td>
     <td valign="middle" width="40%" align="right">
-       <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+       <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" /><p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
     </td>
-https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07
-<p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
-</table>
 
+
+</table>
+<p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
 
 
 
