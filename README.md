@@ -24,6 +24,7 @@
 <h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
 <p align="center">
   Let's build something great together. ✨
+</br>
   <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" align="center" width="40%"/>
 </p>
 
@@ -36,7 +37,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="center">
-  <table>
+ <table align="center">
     <tr>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -186,7 +187,7 @@
 
 <hr>
 
-<table width="100%">
+<table  align="center" width="100%">
   <tr>
     <td valign="middle" width="60%">
       <p align="left">
