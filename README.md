@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Beyza!</h1>
+<h1 align="center">👩‍💻 Hi, I'm <span style="color:#f39c12;">Beyza Nur Keskin</span>!</h1>
+<h3 align="center">🚀 Computer Engineer | Full-Stack Developer | Lifelong Learner</h3>
 <table width="100%">
   <tr>
     <td valign="middle" width="60%">
       <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
-      <p align="center">A passionate Computer Engineer dedicated to continuous learning and improvement in the software development realm. I build projects using technologies like Java, Spring Framework, JavaScript, and React, focusing on clean architecture, performance, and exceptional user experiences. 🧠  </p> </br>
+     <p align="center">
+  I'm a <strong>Computer Engineer</strong> passionate about building robust, scalable, and user-friendly web applications. <br>
+  I specialize in <strong>Java, Spring Boot, React, and modern web technologies</strong>. <br>
+  I strive to write <strong>clean code</strong>, follow <strong>best practices</strong>, and continually improve myself as a developer. 💡
+</p> </br>
       </td>
     </td>
     <td valign="middle" width="40%" align="right">
@@ -182,5 +187,23 @@
   </tr>
 </table>
 
+<p align="center">
+  🌱 I’m currently learning: <strong>Docker, Kubernetes, Kafka</strong> <br>
+  💬 Ask me about: <strong>Java & Spring Boot</strong> <br>
+  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a> <br>
+  ⚡ Fun fact: I love solving algorithm problems and designing UIs!
+</p>
 
-
+<h3 align="center">📌 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/beyzanurkeskinn/my-awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=my-awesome-project&theme=radical" />
+  </a>
+  <a href="https://github.com/beyzanurkeskinn/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=beyzanurkeskinn&repo=another-project&theme=radical" />
+  </a>
+</p>
+<h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
+<p align="center">
+  Let's build something great together. ✨
+</p>
