@@ -192,8 +192,8 @@
     <td valign="middle" width="40%" align="right">
        <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
     </td>
-!(https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07)
-
+https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07
+<p align="left"> <img src="https://github.com/user-attachments/assets/6feb21a2-eb28-4744-bc8d-041b0b5c1a07" alt="beyzanurkeskinn" /> </p>
 </table>
 
 
