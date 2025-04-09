@@ -20,9 +20,9 @@
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
-
-<hr>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<hr>
+
 <h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
 <p align="center">
   Let's build something great together. ✨
