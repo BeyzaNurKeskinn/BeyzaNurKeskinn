@@ -18,9 +18,7 @@
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzanurkeskinn&label=Profile%20views&color=0e75b6&style=flat" alt="beyzanurkeskinn" /> </p>
-
 <hr>
-
 <h3 align="center">"Code is like humor. When you have to explain it, it’s bad." 💡</h3>
 <p align="center">
   Let's build something great together. ✨
@@ -31,9 +29,7 @@
 <p align="center">
   📫 How to reach me: <a href="mailto:beyzanurhorasan89@gmail.com">beyzanurhorasan89@gmail.com</a>
 </p>
-
 <hr>
-
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
