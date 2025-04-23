@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td valign="middle" width="60%">
-      <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Tech Enthusiast 🚀</h3>
+      <h3 align="center">💻 Beyza Nur Keskin | Computer Engineer & Full-Stack Developer | Java Backend Developer | Tech Enthusiast 🚀</h3>
       <p align="center">
           Hi, I'm Beyza! I am a <strong>Computer Engineering graduate</strong> and a <strong>full-stack software developer</strong>. I develop secure <strong>RESTful APIs</strong> using <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Spring Security</strong>, <strong>JPA</strong>, and <strong>Hibernate</strong>; and create dynamic web applications using <strong>React</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>. I have experience with <strong>JWT</strong>, <strong>OAuth2</strong>, and <strong>role-based authorization</strong>. I am proficient in database management and querying using <strong>SQL</strong>, <strong>PostgreSQL</strong>, and <strong>T-SQL</strong>. I work according to <strong>Git</strong>, <strong>GitHub</strong>, <strong>Agile/Scrum methodologies</strong>, and <strong>SOLID principles</strong>, with a continuous learning mindset. I contribute effectively both individually and in team environments, and I can actively participate in all stages of the <strong>software development process</strong>.💡
       </p>
