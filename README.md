@@ -178,18 +178,3 @@
     </tr>
   </table>
 </p>
-
-<hr>
-
-<table  align="center" width="100%">
-  <tr>
-    <td valign="middle" width="60%">
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkeskinn&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      </p>
-    </td>
-    <td valign="middle" width="40%" align="center">
-      <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
