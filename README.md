@@ -1,7 +1,5 @@
 <h1 align="center">👩‍💻 Hi, I'm <span style="color:#f39c12;">Beyza Nur Keskin</span>!</h1>
 <h3 align="center">🚀 Computer Engineer | Full-Stack Developer | Java Backend Developer  </h3>
-.
-.
 <table width="100%">
   <tr>
     <td valign="middle" width="60%">
